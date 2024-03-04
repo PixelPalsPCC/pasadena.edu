@@ -1,0 +1,173 @@
+@import url("//hello.myfonts.net/count/2e095b");
+@import url("//hello.myfonts.net/count/2e09e5");
+@import url("//hello.myfonts.net/count/2de060");
+@import url("//hello.myfonts.net/count/2e360a");
+
+/**
+ * @license
+ * MyFonts Webfont Build ID 3552597, 2018-04-05T20:23:41-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: AvenirNextLTPro-Bold by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-bold/
+ * Copyright: Copyright &#x00A9; 2004 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * Webfont: AvenirNextLTPro-BoldIt by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-bold-italic/
+ * Copyright: Copyright &#x00A9; 2004 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * Webfont: AvenirNextLTPro-It by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-italic/
+ * Copyright: Copyright &#x00A9; 2004 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * Webfont: AvenirNextLTPro-MediumIt by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-medium-italic/
+ * Copyright: Copyright &#x00A9; 2004 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * Webfont: AvenirNextLTPro-Regular by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-regular/
+ * Copyright: Copyright &#x00A9; 2004 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * Webfont: AvenirNextLTPro-Medium by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-medium/
+ * Copyright: Copyright &#x00A9; 2004 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * Webfont: AvenirNextLTPro-ThinIt by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-thin-italic/
+ * Copyright: Copyright &#x00A9; 2012 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * Webfont: AvenirNextLTPro-Thin by Linotype
+ * URL: https://www.myfonts.com/fonts/linotype/avenir-next-pro/pro-thin/
+ * Copyright: Copyright &#x00A9; 2012 - 2017 Monotype GmbH. All rights reserved.
+ * 
+ * 
+ * License: https://www.myfonts.com/viewlicense?type=web&buildid=3552597
+ * Licensed pageviews: 500,000
+ * 
+ * © 2018 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/363555");
+@import url("//hello.myfonts.net/count/363557");
+@import url("//hello.myfonts.net/count/3b24e3");
+
+/* Heavy */
+@font-face {font-family: 'AvenirNext'; font-weight: 900;font-style: italic;src: url('/_resources/fonts/avenir/3B24E3_0_0.eot');src: url('/_resources/fonts/avenir/3B24E3_0_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/3B24E3_0_0.woff2') format('woff2'),url('/_resources/fonts/avenir/3B24E3_0_0.woff') format('woff'),url('/_resources/fonts/avenir/3B24E3_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'AvenirNext';font-weight: 900;font-style: normal;src: url('/_resources/fonts/avenir/3B24E3_1_0.eot');src: url('/_resources/fonts/avenir/3B24E3_1_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/3B24E3_1_0.woff2') format('woff2'),url('/_resources/fonts/avenir/3B24E3_1_0.woff') format('woff'),url('/_resources/fonts/avenir/3B24E3_1_0.ttf') format('truetype');}
+
+/* Extra Bold */
+@font-face {font-family: 'AvenirNext';font-weight: 800;font-style: normal;src: url('/_resources/fonts/avenir/363555_0_0.eot');src: url('/_resources/fonts/avenir/363555_0_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_0_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363555_0_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_0_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_0_0.svg#wf') format('svg');}
+
+@font-face {font-family: 'AvenirNext';font-weight: 800;font-style: italic;src: url('/_resources/fonts/avenir/363555_1_0.eot');src: url('/_resources/fonts/avenir/363555_1_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_1_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363555_1_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_1_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_1_0.svg#wf') format('svg');}
+
+/* Bold */
+@font-face {font-family: 'AvenirNext';font-weight: bold;font-style: normal;src: url('/_resources/fonts/avenir/363557_0_0.eot');src: url('/_resources/fonts/avenir/363557_0_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363557_0_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363557_0_0.woff') format('woff'),url('/_resources/fonts/avenir/363557_0_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363557_0_0.svg#wf') format('svg');}
+ 
+
+@font-face {font-family: 'AvenirNext';font-weight: bold;font-style: italic;src: url('/_resources/fonts/avenir/363557_1_0.eot');src: url('/_resources/fonts/avenir/363557_1_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363557_1_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363557_1_0.woff') format('woff'),url('/_resources/fonts/avenir/363557_1_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363557_1_0.svg#wf') format('svg');}
+ 
+/* Regular */
+@font-face {font-family: 'AvenirNext';font-weight: normal;font-style: italic;src: url('/_resources/fonts/avenir/363555_2_0.eot');src: url('/_resources/fonts/avenir/363555_2_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_2_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363555_2_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_2_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_2_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'AvenirNext';font-weight: 500;font-style:italic;src: url('/_resources/fonts/avenir/363555_3_0.eot');src: url('/_resources/fonts/avenir/363555_3_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_3_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363555_3_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_3_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_3_0.svg#wf') format('svg');}
+ 
+ 
+@font-face {font-family: 'AvenirNext';font-weight: normal;font-style: normal;src: url('/_resources/fonts/avenir/363555_4_0.eot');src: url('/_resources/fonts/avenir/363555_4_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_4_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_4_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_4_0.svg#wf') format('svg');}
+ 
+/* Semi Bold */
+@font-face {font-family: 'AvenirNext';font-weight: 500;font-style: normal;src: url('/_resources/fonts/avenir/363555_5_0.eot');src: url('/_resources/fonts/avenir/363555_5_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_5_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363555_5_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_5_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_5_0.svg#wf') format('svg');}
+ 
+/* Light */
+@font-face {font-family: 'AvenirNext';font-weight: 300;font-style: italic;src: url('/_resources/fonts/avenir/363555_6_0.eot');src: url('/_resources/fonts/avenir/363555_6_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_6_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363555_6_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_6_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_6_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'AvenirNext';font-weight: 300;font-style: normal;src: url('/_resources/fonts/avenir/363555_7_0.eot');src: url('/_resources/fonts/avenir/363555_7_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/avenir/363555_7_0.woff2') format('woff2'),url('/_resources/fonts/avenir/363555_7_0.woff') format('woff'),url('/_resources/fonts/avenir/363555_7_0.ttf') format('truetype'),url('/_resources/fonts/avenir/363555_7_0.svg#wf') format('svg');}
+ 
+/* ProximaNova-Regular */
+/* @import must be at top of file, otherwise CSS will not work */
+/* @import must be at top of file, otherwise CSS will not work */
+
+
+  
+@font-face {font-family: 'ProximaNova';font-weight: bold;font-style: italic;src: url('/_resources/fonts/2E095B_0_0.eot');src: url('/_resources/fonts/2E095B_0_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E095B_0_0.woff2') format('woff2'),url('/_resources/fonts/2E095B_0_0.woff') format('woff'),url('/_resources/fonts/2E095B_0_0.ttf') format('truetype'),url('/_resources/fonts/2E095B_0_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'ProximaNova';font-weight: bold;font-style: normal;src: url('/_resources/fonts/2E095B_1_0.eot');src: url('/_resources/fonts/2E095B_1_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E095B_1_0.woff2') format('woff2'),url('/_resources/fonts/2E095B_1_0.woff') format('woff'),url('/_resources/fonts/2E095B_1_0.ttf') format('truetype'),url('/_resources/fonts/2E095B_1_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'ProximaNova';font-weight: normal;font-style: normal;src: url('/_resources/fonts/2E095B_2_0.eot');src: url('/_resources/fonts/2E095B_2_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E095B_2_0.woff2') format('woff2'),url('/_resources/fonts/2E095B_2_0.woff') format('woff'),url('/_resources/fonts/2E095B_2_0.ttf') format('truetype'),url('/_resources/fonts/2E095B_2_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'ProximaNova';font-weight: normal;font-style: italic;src: url('/_resources/fonts/2E095B_3_0.eot');src: url('/_resources/fonts/2E095B_3_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E095B_3_0.woff2') format('woff2'),url('/_resources/fonts/2E095B_3_0.woff') format('woff'),url('/_resources/fonts/2E095B_3_0.ttf') format('truetype'),url('/_resources/fonts/2E095B_3_0.svg#wf') format('svg');}
+ 
+/* Proxima Nova Thin and Medium for Titles primarily */
+/* @import must be at top of file, otherwise CSS will not work */
+
+
+  
+@font-face {font-family: 'ProximaNova-Light';src: url('/_resources/fonts/2E09E5_0_0.eot');src: url('/_resources/fonts/2E09E5_0_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E09E5_0_0.woff2') format('woff2'),url('/_resources/fonts/2E09E5_0_0.woff') format('woff'),url('/_resources/fonts/2E09E5_0_0.ttf') format('truetype'),url('/_resources/fonts/2E09E5_0_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'ProximaNova-Semibold';src: url('/_resources/fonts/2E09E5_1_0.eot');src: url('/_resources/fonts/2E09E5_1_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E09E5_1_0.woff2') format('woff2'),url('/_resources/fonts/2E09E5_1_0.woff') format('woff'),url('/_resources/fonts/2E09E5_1_0.ttf') format('truetype'),url('/_resources/fonts/2E09E5_1_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'ProximaNova-LightIt';src: url('/_resources/fonts/2E09E5_2_0.eot');src: url('/_resources/fonts/2E09E5_2_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E09E5_2_0.woff2') format('woff2'),url('/_resources/fonts/2E09E5_2_0.woff') format('woff'),url('/_resources/fonts/2E09E5_2_0.ttf') format('truetype'),url('/_resources/fonts/2E09E5_2_0.svg#wf') format('svg');}
+ 
+  
+@font-face {font-family: 'ProximaNova-SemiboldIt';src: url('/_resources/fonts/2E09E5_3_0.eot');src: url('/_resources/fonts/2E09E5_3_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/2E09E5_3_0.woff2') format('woff2'),url('/_resources/fonts/2E09E5_3_0.woff') format('woff'),url('/_resources/fonts/2E09E5_3_0.ttf') format('truetype'),url('/_resources/fonts/2E09E5_3_0.svg#wf') format('svg');}
+
+/* Helvetica Neue License Light */
+
+
+/* Helvetica Neue Light */
+@font-face {font-family: 'HelveticaNeueLight';font-weight: normal;font-style: italic;src: url('/_resources/fonts/helvetica-neue-light/2E360A_0_0.eot');src: url('/_resources/fonts/helvetica-neue-light/2E360A_0_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/helvetica-neue-light/2E360A_0_0.woff2') format('woff2'),url('/_resources/fonts/helvetica-neue-light/2E360A_0_0.woff') format('woff'),url('/_resources/fonts/helvetica-neue-light/2E360A_0_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'HelveticaNeueLight';font-weight: normal;font-style: normal;src: url('/_resources/fonts/helvetica-neue-light/2E360A_1_0.eot');src: url('/_resources/fonts/helvetica-neue-light/2E360A_1_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/helvetica-neue-light/2E360A_1_0.woff2') format('woff2'),url('/_resources/fonts/helvetica-neue-light/2E360A_1_0.woff') format('woff'),url('/_resources/fonts/helvetica-neue-light/2E360A_1_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'HelveticaNeueLight';font-weight: bold;font-style: normal;src: url('/_resources/fonts/helvetica-neue-light/2E360A_2_0.eot');src: url('/_resources/fonts/helvetica-neue-light/2E360A_2_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/helvetica-neue-light/2E360A_2_0.woff2') format('woff2'),url('/_resources/fonts/helvetica-neue-light/2E360A_2_0.woff') format('woff'),url('/_resources/fonts/helvetica-neue-light/2E360A_2_0.ttf') format('truetype');}
+ 
+  
+@font-face {font-family: 'HelveticaNeueLight';font-weight: bold;font-style: italic;src: url('/_resources/fonts/helvetica-neue-light/2E360A_3_0.eot');src: url('/_resources/fonts/helvetica-neue-light/2E360A_3_0.eot?#iefix') format('embedded-opentype'),url('/_resources/fonts/helvetica-neue-light/2E360A_3_0.woff2') format('woff2'),url('/_resources/fonts/helvetica-neue-light/2E360A_3_0.woff') format('woff'),url('/_resources/fonts/helvetica-neue-light/2E360A_3_0.ttf') format('truetype');}
+
+/* Optima License */
+
+
+/* OPTIMA */
+@font-face {
+	font-family: 'Optima It';
+	src: url('/_resources/fonts/2DE060_0_0.eot');
+	src: url('/_resources/fonts/2DE060_0_0.eot?#iefix') format('embedded-opentype'),
+			 url('/_resources/fonts/2DE060_0_0.woff2') format('woff2'),
+			 url('/_resources/fonts/2DE060_0_0.woff') format('woff'),
+			 url('/_resources/fonts/2DE060_0_0.ttf') format('truetype');
+}
+  
+@font-face {
+	font-family: 'Optima Medium';
+	src: url('/_resources/fonts/2DE060_1_0.eot');
+	src: url('/_resources/fonts/2DE060_1_0.eot?#iefix') format('embedded-opentype'),
+			 url('/_resources/fonts/2DE060_1_0.woff2') format('woff2'),
+			 url('/_resources/fonts/2DE060_1_0.woff') format('woff'),
+			 url('/_resources/fonts/2DE060_1_0.ttf') format('truetype');
+}
+  
+@font-face {
+	font-family: 'Optima Std';
+	src: url('/_resources/fonts/2DE060_2_0.eot');
+	src: url('/_resources/fonts/2DE060_2_0.eot?#iefix') format('embedded-opentype'),
+			 url('/_resources/fonts/2DE060_2_0.woff2') format('woff2'),
+			 url('/_resources/fonts/2DE060_2_0.woff') format('woff'),
+			 url('/_resources/fonts/2DE060_2_0.ttf') format('truetype');
+}
